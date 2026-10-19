@@ -1,0 +1,6 @@
+/**
+ * Produit
+ */
+public class Produit {
+
+}
